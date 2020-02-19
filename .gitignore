@@ -1,0 +1,8 @@
+# Ignore everything that ends in a tilde
+*~
+
+# Ignore everything that ends with a “._”
+._*
+
+# Ignore trash
+.Trash-*
